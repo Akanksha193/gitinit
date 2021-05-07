@@ -1,0 +1,2 @@
+# gitinit
+exercise 4
